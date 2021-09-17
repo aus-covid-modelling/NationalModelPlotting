@@ -1,0 +1,20 @@
+scenario,priority_order,az_dose_gap,az_age_cutoff
+1,Oldest to youngest,12 weeks,60
+2,Youngest to oldest (40+ first then 16+),12 weeks,60
+3,Random,12 weeks,60
+4,Oldest to youngest,8 weeks,60
+5,Youngest to oldest (40+ first then 16+),8 weeks,60
+6,Random,8 weeks,60
+7,Oldest to youngest,4 weeks,60
+8,Youngest to oldest (40+ first then 16+),4 weeks,60
+9,Random,4 weeks,60
+10,Oldest to youngest,12 weeks,40
+11,Youngest to oldest (40+ first then 16+),12 weeks,40
+12,Random,12 weeks,40
+13,Oldest to youngest,8 weeks,40
+14,Youngest to oldest (40+ first then 16+),8 weeks,40
+15,Random,8 weeks,40
+16,Oldest to youngest,4 weeks,40
+17,Youngest to oldest (40+ first then 16+),4 weeks,40
+18,Random,4 weeks,40
+19,Phased,12 weeks,60
